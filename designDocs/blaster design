@@ -1,0 +1,6 @@
+Requirements:
+- sensor at tip of blaster to receive damage
+- some for of infra red module (laser or LED) to transmit data
+- way of uniquely identifying blasters (maybe a sim card of some sort? or an eeprom maybe both)
+- link between blaster and vest (to disable blaster when user is taken offline)
+- fire selector toggle 3 modes: safety, single shot, 3 round burst
